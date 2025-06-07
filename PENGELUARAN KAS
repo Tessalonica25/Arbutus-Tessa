@@ -31,6 +31,13 @@ PILIH VOUCHER NUMBER
 
 TIDAK ADA DUPLIKAT TERDETEKSI
 
+PILIH DATA>EXTRACT
+GUNAKAN FUNGSI EXPRESSION
+KETIK BETWEEN (AMOUNT CREDIT, 500000000,100000000)
+![Image](https://github.com/user-attachments/assets/577d089a-4e21-4fa4-b582-360947e4c457)
+![Image](https://github.com/user-attachments/assets/414dc282-865a-4e13-8f1f-52065336e9e5)
+![Image](https://github.com/user-attachments/assets/fb4f7967-97cd-446b-82bb-6d1786f796d3)
+![Image](https://github.com/user-attachments/assets/1b0e1cdb-55ec-4792-b104-6e24a0f560a0)
 MELAKUKAN ATTRIBUTE TESTING
 PILIH DATA LALU EXTRACT
 GUNAKAN EXPRESSION
