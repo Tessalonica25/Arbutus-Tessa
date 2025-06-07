@@ -2,7 +2,13 @@ PILIH IMPORT > EXCEL
 PILIH CASH GL
 KLIK OPEN
 
-MENGUJI INTEGRITAS
+MENGUJI INTEGRITAS DATA
 PILIH ANALYZE > VERIFY
 PILIH ALL FIELDS
 ![Image](https://github.com/user-attachments/assets/b2e1dc65-9cff-4e2a-b81b-a3769c6a82a7)
+![Image](https://github.com/user-attachments/assets/0b40bf24-8197-4a3e-b29f-99204aa5bf1f)
+
+TIDAK ADA ERROR
+
+PILIH ANALYZE > SEQUENCE
+PILIH VOUCHER NUMBER
